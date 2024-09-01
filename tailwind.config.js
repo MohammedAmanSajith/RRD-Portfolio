@@ -4,10 +4,11 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'banner': "url('/Images/banner_bg.jpg')",
+        'banner': "url('/Images/banner_bg.jpg')"
       },
       fontFamily: {
-        'mont': ["Montserrat", 'sans-serif']
+        'mont': ["Montserrat", 'sans-serif'],
+        'roboto': ["Roboto", 'sans-serif']
       }
     },
   },
